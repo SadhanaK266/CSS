@@ -1,0 +1,40 @@
+/* body{
+    background-color: black;
+} */
+/* element selector */
+/* h1{
+    color:aqua;
+}
+p{
+    color: blue;
+} */
+
+
+/* class Selctor */
+/* .one{
+    color: pink;
+}
+.two{
+    color: plum;
+} */
+
+
+
+/* id selector */
+/* #one{
+    color:brown
+}
+#two{
+    color:greenyellow;
+} */
+/* also possible */
+/* #one,#two{
+    color:greenyellow;
+} */
+
+
+
+/* universal selector */
+*{
+    color: brown;
+}
