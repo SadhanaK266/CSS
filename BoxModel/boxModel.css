@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    background-color: black;
+    padding: 1%;
+    margin: 2%;
+    h1{
+        text-align: center;
+        color: yellow;
+    }
+}
+.two{
+    border-width: 5px;
+    border-style: solid;
+    background-color: gray;
+    padding: 1%;
+    margin: 2%;
+    p{
+        text-align: center;
+    }
+}
